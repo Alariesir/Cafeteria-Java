@@ -1,0 +1,15 @@
+Um CheckList do Projeto!
+
+1. Cadastrar Cliente ........ Ok
+
+2. Lista de Clientes ........ Ok
+
+3. Alterar Clientes ......... X
+- Falta especificar qual o cliente exatamente queremos alterar
+
+4. Excluir Clientes ......... Ok
+
+5. Comprar Cafe ............. X
+- Ao comprar um café até registra qual o café foi vendido, 
+  porem o cliente que comprou não esta sendo informado.
+- Por enquanto so vende a primeira opção do cafe 
